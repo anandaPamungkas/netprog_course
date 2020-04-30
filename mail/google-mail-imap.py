@@ -1,3 +1,6 @@
+#this code need google account app password to log in to our email account
+#this code can only be excetude with python 2
+
 import argparse
 import getpass
 import imaplib
